@@ -1,0 +1,11 @@
+{
+  "base": {
+    "CollabraChainFactory": {
+      "address": "0xfB250Bf4c8F9E80fEE15FF978ad1a6289dED9C2f",
+      "startBlock": 31544739
+    },
+    "CollabraChainReputation": {
+      "address": "0x87cC4d1516898D331699364DB756De3a17271C3a"
+    }
+  }
+}
